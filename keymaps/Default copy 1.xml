@@ -1,0 +1,50 @@
+<keymap version="1" name="Default copy 1" parent="$default">
+  <action id="ChangesView.Diff" />
+  <action id="CollapseExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl subtract" />
+    <keyboard-shortcut first-keystroke="ctrl minus" />
+  </action>
+  <action id="CompareTwoFiles" />
+  <action id="Console.Execute.Multiline" />
+  <action id="Diff.ShowDiff" />
+  <action id="DirDiffMenu.SynchronizeDiff.All" />
+  <action id="EditorChooseLookupItemCompleteStatement" />
+  <action id="EditorCompleteStatement" />
+  <action id="EditorDeleteLine">
+    <keyboard-shortcut first-keystroke="ctrl d" />
+  </action>
+  <action id="EditorDuplicate" />
+  <action id="EditorLineEnd">
+    <keyboard-shortcut first-keystroke="end" />
+    <keyboard-shortcut first-keystroke="shift enter" />
+  </action>
+  <action id="EditorScrollBottom">
+    <keyboard-shortcut first-keystroke="ctrl b" />
+  </action>
+  <action id="EditorScrollTop">
+    <keyboard-shortcut first-keystroke="ctrl t" />
+  </action>
+  <action id="EditorSplitLine" />
+  <action id="EditorStartNewLine">
+    <keyboard-shortcut first-keystroke="ctrl enter" />
+  </action>
+  <action id="EditorStartNewLineBefore">
+    <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="ExpandExpandableComponent">
+    <keyboard-shortcut first-keystroke="ctrl add" />
+    <keyboard-shortcut first-keystroke="ctrl equals" />
+  </action>
+  <action id="FileChooser.GotoDesktop" />
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="button2" />
+  </action>
+  <action id="OpenElementInNewWindow" />
+  <action id="RunDashboard.CopyConfiguration" />
+  <action id="SendEOF" />
+  <action id="Vcs.UpdateProject" />
+  <action id="ViewSource" />
+  <action id="XDebugger.CopyWatch" />
+  <action id="openAssertEqualsDiff" />
+</keymap>
