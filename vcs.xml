@@ -1,0 +1,52 @@
+<application>
+  <component name="GitRememberedInputs">
+    <option name="visitedUrls">
+      <list>
+        <UrlAndUserName>
+          <option name="url" value="http://git.coding.net" />
+          <option name="userName" value="zhangdawei_j@sina.com" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.coding.net/code5/backstagePage.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://git.coding.net/code5/zhuyouNew.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/junwei1114/ajax.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="http://github.com" />
+          <option name="userName" value="junwei1114" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/junwei1114/vuex-counter.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/voronianski/react-swipe.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/yelouafi/redux-saga-beginner-tutorial" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/junwei1114/simplest-react.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/junwei1114/react-daz.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+      </list>
+    </option>
+    <option name="cloneParentDir" value="E:\Documents\Desktop\demo\react" />
+  </component>
+  <component name="VcsApplicationSettings">
+    <option name="SHOW_LST_GUTTER_MARKERS" value="false" />
+  </component>
+</application>
