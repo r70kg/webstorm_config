@@ -1,7 +1,4 @@
 /**
- * @name:${NAME}
- * @author:kk
- * @date:${DATE}
- * @desc:${NAME}
+ * Created by ${USER} on ${DATE}.
  */
  

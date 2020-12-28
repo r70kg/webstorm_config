@@ -128,9 +128,4 @@
       <option name="JAVA_SCRIPT" value="true" />
     </context>
   </template>
-  <template name="kk" value="/*&#10; * @author&#10; * @desc&#10; * @param&#10; */&#10;" description="注释快捷键" toReformat="true" toShortenFQNames="true">
-    <context>
-      <option name="JAVA_SCRIPT" value="true" />
-    </context>
-  </template>
 </templateSet>
